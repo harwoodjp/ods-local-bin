@@ -1,0 +1,2 @@
+cd /home/justin/code/ods/AboveStoreProject/Other-Files/JRS-War/themes/
+onchange rsync -avt . /home/justin/code/ods/AboveStoreProject/AboveStore-Extra/target/AboveStore-Extra/themes/

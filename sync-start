@@ -1,0 +1,4 @@
+sync-css &
+sync-js &
+cd ~/code/ods/AboveStoreProject
+gulp &
