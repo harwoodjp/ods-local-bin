@@ -1,1 +1,2 @@
-pkill -f rsync
+pkill -f rsync &
+fuser -k 8081/tcp &
